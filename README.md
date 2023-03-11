@@ -1,4 +1,5 @@
-**Solidity Ebay clone with unit testing:
+# Solidity-Ebay Clone with Unit Testing
+
 1. There are 2 structures in the project Auction and offer
 2. Seller can create an auction for any item with minimum expected amount
 3. Buyers can bid on any items available. Price in bidding should be grater than the minimum value set by a seller.
